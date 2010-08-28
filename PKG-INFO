@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: rpygtk
+Version: beta
+Summary: A Gnome Frontend for Statistical Analysis in R
+Home-page: http://code.google.com/p/rpygtk/
+Author: Stephen Diehl
+Author-email: sdiehl@clarku.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: numpy
+Requires: rpy2

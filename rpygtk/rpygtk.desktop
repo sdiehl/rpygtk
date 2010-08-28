@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=RPyGTK
+GenericName=RPyGTK
+TryExec=rpygtk
+Exec=rpygtk
+Terminal=false
+Icon=/usr/share/icons/gnome/scalable/categories/applications-utilities.svg
+Type=Application
+Categories=Education
+Comment=A Gnome Frontend for Statistical Analysis in R
