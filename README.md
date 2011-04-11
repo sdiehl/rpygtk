@@ -1,23 +1,23 @@
+RPyGTK
+======
+
+Copyright (C) 2010-2011 Stephen Diehl (sdiehl@clarku.edu)
+Licensed under the GPLv3.
+
 Description
 ------------------------------------
 
 RpyGTK is a GTK based fronted for R which uses the Rpy interface
 between Python and R.
 
-The code is licensed under the GPLv3.
-
-Authors
-------------------------------------
-Stephen Diehl ( sdiehl@clarku.edu )
-
 Dependencies
 ------------------------------------
 
-Python
-PyGTK
-R
-Rpy2
-Numpy
+* Python
+* PyGTK
+* R
+* Rpy2
+* Numpy
 
 Installation
 ------------------------------------
